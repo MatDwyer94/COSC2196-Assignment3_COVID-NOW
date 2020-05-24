@@ -151,4 +151,10 @@ No functionality is currently available to notify users if they've been in close
 Advice related to COVID-19 only is displayed on this app. No further information regarding job seeking, mental health advice, self-isolation techniques or business support.
 
 ## Tools and Technologies.
-There is an extremely wide range of tools and technologies required for this project. To start with, you need app development tools for each platform. For android, you will likely use Android Studio combined with the Java language.
+There is an extremely wide range of tools and technologies required for this project. To start with, you need app development tools for each platform. For android, you will likely use Android Studio combined with the Java language. For IOS, you would use Xcode combined with the Swift programming language.
+
+Hardware technologies such as arduino would also be needed to create the hardware piece that would connect to the program.
+
+Miscellaneous software technologies such as database and cybersecurity based technologies will definitely be needed to make sure the app and it's data is kept secure.
+
+## Testing
