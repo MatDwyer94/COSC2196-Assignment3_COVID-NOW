@@ -161,7 +161,7 @@ Hardware technologies such as arduino would also be needed to create the hardwar
 Miscellaneous software technologies such as database and cybersecurity based technologies will definitely be needed to make sure the app and it's data is kept secure.
 
 ## Testing
-
+Testing of the app part of the project would start when there is some sort of functional ability to it. The focus would be on the development and testing of the hardware side. Making sure that the hardware can stand up to regular use, be easy enough for a regular person to use, make sure its connection functionality to the app works correctly are all significant challenges which would need to be ironed out. Having users test the hardware, and eventually the software as well would be very important to make sure it is universally usable. Wre would need users from almost every background to make sure that you don't need specialised knowledge. To do this, we would likely set up spots in large public areas such as shopping centres, asking people to come and try our device and app.
 
 ## Timeframe
 - Week 1-6:

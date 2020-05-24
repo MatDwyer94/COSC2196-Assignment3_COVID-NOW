@@ -37,3 +37,33 @@ I was surprised how everyone knew what they were doing, they understood their pa
 During this group work, i learnt communication and time managing is very important. Having a exact opinion will be better as this assignment can only be done online.
 
 My Github activity wasn’t very active. To be honest I am not very familiar using Github and I haven’t quite understand how to run the site well but other members from the group used Github to upload the files and by looking at that members Github it sort so got me on track on how to use it.
+
+### Mathew
+
+**What went well?**
+We all worked well together to get all of our parts done. We organised very early on who would cover what parts and everyone was very agreeable.
+
+**What could be improved?**
+We could have been maybe sending each other our work in updates rather than waiting for everything to be done and sent to put together.
+
+**At least one thing that was surprising**
+How easily everyone worked together and agreed on what needed to be done and who would do it.
+
+**At least one thing that you have learned about groups**
+That I have skills that other don't and that they can be utilised quite well.
+
+### Hayden
+
+**What went well**
+We gelled well from the get-go and had no puch back on ideas. Strong communication & planned what each individual needed to contribute with ease.
+
+**What could be improved**
+Discussion on when each other were available/plan for whole assignment
+
+**As least one thing that was surprising**
+How well we got stuck in with no one complaining. Everyone completing their work on time & having effective contributions.
+
+**At least one thing that you have learned about groups**
+Having clear communication helps deliver a good outcome.
+
+## Group Reflection
