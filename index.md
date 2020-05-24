@@ -160,6 +160,33 @@ Miscellaneous software technologies such as database and cybersecurity based tec
 ## Testing
 
 
+## Timeframe
+- Week 1-6:
+Week 1	Rashad worked on the team profile within the first two weeks as Min tackled the Overview, Matthew tackled tools and technologies and Hayden tackled the team roles. Within the next 3 weeks Rashad tackled the career plans the time frame and the risks as min tackled the aims as well as the plan and progress, Hayden tackled the scope and limitations and Matthew tackled the testing. The final week was spent with the group compiling the information, making final adjustments and completing the group reflection.
+
+- Week 7:
+The first extended week would have us repeating the team website and really delving deeper into the html coding and ensuring presentation is at it’s finest.
+
+- Week 8:
+The next week would include the adaptation of the individual websites and look into discussing at a deeper level the project description overview.
+
+- Week 9:
+By now we would have time to really further our plans and progress and as a good time to check in we would be able to iron out any kinks in our plans. This would allow us to utilize and maximise the remaining time.
+
+- Week 10:
+By now if there are any problems with roles they would be noticeable and we can switch them around to better suit our skillset.
+
+- Week 11-13:
+Testing is key and to do that we need to finalise or at least come close to a final design. The next 3 weeks will be used to finalise the design and project. With any remaining time, we will revisit and explore the skills and jobs portion of the assessment.
+
+- Week 14:
+Week 14 would be a good time to revise everything. Proof reading and editing to finalise the copy.
+
+- Week 15:
+The final weeks will be a good time to give a detailed group reflection. In doing so now, we still have room to improve with the final week and we are able to really discuss what could have gone better and what didn’t.
+
+- Week 16:
+This final week will be used to fix any last remaining tasks or mistakes. The final product in terms of design and information wise will be of the highest standard possible through this final check.
 
 ## Risks
 There are many risks involved with creating the product at hand. If concentrating on non-generic risks and we choose to delve into the program and hardware specific risks, we can shorten the long list. In terms of the program risks, they are as follows:
