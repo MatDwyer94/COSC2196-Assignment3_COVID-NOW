@@ -158,3 +158,25 @@ Hardware technologies such as arduino would also be needed to create the hardwar
 Miscellaneous software technologies such as database and cybersecurity based technologies will definitely be needed to make sure the app and it's data is kept secure.
 
 ## Testing
+
+
+
+## Risks
+There are many risks involved with creating the product at hand. If concentrating on non-generic risks and we choose to delve into the program and hardware specific risks, we can shorten the long list. In terms of the program risks, they are as follows:
+- The program used to create the app may not be as easy as the instructional makes it out to be
+-	The program may require further programming knowledge that we may have to acquire
+-	The app’s features may take the use of other software we have not looked at yet
+-	The apps production and constant updating may be unreasonable financially
+-	The app may require an assistance or support line to deal with issues
+-	If the program used is not clear or “cuts corners”, the app may be low in quality leading to bugs and further problems down the line
+-	The application must find a balance between functionality, design and ease of access for the user.
+
+In terms of hardware risks, they are as follows:
+-	The product may come out cheap in quality
+-	Creating a mass number of units is a financial risk if sales are prospected too highly
+-	The use of similar hardware to models that are currently on the market may lead to legal action being taken against the product
+-	The possibility of products being produced internationally as opposed to internally may cause popularity and sales to drop
+-	The hardware may lead to slow performance if cost is a dominant factor
+
+## Group processes and communications
+Communication is vital in any team and the difference between a team in sync through communication and a team working as autonomous members is night and day. Within our group it has been established that WhatsApp is our main method of communication. If need be Gmail can be used to send files and the use of GitHub for file sharing to multiple persons. The use of WhatsApp allows the group to touch base at least once every two days. A simple message once every two days can ensure we are effectively working towards deadlines and can act as a reminder if tasks need to be completed or if help is needed on certain tasks. The use of WhatsApp allows for video calling which replaces the need for face to face interaction and makes communicating a breeze. In terms of meeting at least 2 a week is justifiable and necessary. In these meetings we will tackle the bigger issues, work to create deadlines, progress check and plan ahead.

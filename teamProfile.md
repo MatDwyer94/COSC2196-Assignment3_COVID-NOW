@@ -216,3 +216,11 @@ specialisations will be needed. In terms of time frames to achieve the ideal job
 general similarity in time frame with the groups average timeframe to achieve the ideal
 job being approximately 5 years with the maximum and minimum time frame alleviating
 approximately 1 year from that
+
+## Group processes
+
+The group worked extremely well in assignment 2 and utilized our skillsets to the best of our abilities. The major factors that contributed to our success were the willingness to listen as well as the ability to willingly contribute and feed off the ideas we created. However, this was let down by the ability to time manage. The consensus was that we all lacked the ability or at least did not display the ability to manage time. As this became a focus, the group decided to really buckle down on our planning and time management for this assignment.
+
+## Career plans
+
+Within the Group there is a split down the middle. Matthew and Rashad look to further their studies to develop skills in programming and both hope to utilise this in their role. Min and Hayden look to further their studies to follow analytics and net development which include similar features. The steps and procedures to get to the engineering roles that Matthew and Rashad are very similar and include similar qualifications. Min and Hayden’s Qualifications do differ as they are in separate streams of Information technology. Even if there are similarities at the core of their roles, different specialisations will be needed. In terms of time frames to achieve the ideal job there is a general similarity in time frame with the groups average timeframe to achieve the ideal job being approximately 5 years with the maximum and minimum time frame alleviating approximately 1 year from that.
