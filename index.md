@@ -3,6 +3,9 @@
 ## Team Profile
 [Team Profiles](/teamProfile.md)
 
+## Reflections
+[Reflections](/reflections.md)
+
 # COVID NOW Project Idea
 
 ## Topic:

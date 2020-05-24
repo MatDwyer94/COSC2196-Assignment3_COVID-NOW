@@ -3,6 +3,9 @@
 ## Project Idea
 [Projetct Idea](/index.md)
 
+## Reflections
+[Reflections](/reflections.md)
+
 # Team Profiles
 
 ## Personal Information
