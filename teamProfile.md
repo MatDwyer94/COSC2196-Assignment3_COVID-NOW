@@ -1,3 +1,8 @@
+# COVID NOW
+
+## Project Idea
+[Projetct Idea](/index.md)
+
 # Team Profiles
 
 ## Personal Information
