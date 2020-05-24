@@ -67,3 +67,15 @@ How well we got stuck in with no one complaining. Everyone completing their work
 Having clear communication helps deliver a good outcome.
 
 ## Group Reflection
+
+**What went well?**
+All of us got along very well and were all extremely agreeable. There were no arguments and everyone helped participate in the best way they could, utilising their skills, rather than expecting them to try and do something that someone else would be better at. We organised everything that needed to be done nice and early, and everyone came to a very quick agreement on who would do what parts.
+
+**What could be improved**
+We could have kept up communication a bit better rather than the once or twice a week that we would shortly talk. We also very much should have taken more advantage of github, having everyone put their work on there in parts as they make it. It would make it much easier for all of us to check up on each others work, as well as help edit and make it better. It also would have made it a bit easier come time to put it all together.
+
+**At least one thing that was surprising**
+Just how easily we all got along and were able to come up with an idea, start planning it out, and eventually have what could be the makings of a really cool concept for an IT project in the future. Especially given our project was based closely around the current global climate and events that are going on.
+
+**At least one thing you have learned about groups**
+Working in groups effectively takes a significant amount of constant communication, and the ability to be open to ideas, and criticisms. Everyone person has a very unique skillset, that if given time, everyone can become extremely useful in their own specific way. You can’t expect people to do well if they are working well outside of what they know so it is best to try and divvy up any work to suit everyones specific skills.
